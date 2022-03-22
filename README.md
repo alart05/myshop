@@ -1,4 +1,4 @@
-# zara
+# myshop
 
 ## Project setup
 ```
